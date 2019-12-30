@@ -1,0 +1,1 @@
+﻿Tuto složku někam schovej a na ten .exe soubor si dej zástupce třeba na plochu, pak na něj stačí hodit .rar.gz soubor
